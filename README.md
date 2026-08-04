@@ -143,11 +143,11 @@ jupyter notebook airbnb_NY2024.ipynb
 - Clean `bedrooms` and `baths` (currently mixed text values) to unlock room-count-based price analysis.
 - Time-based analysis using `last_review` to identify dormant vs. active listings.
 
+---
+
 ## 👤 Author
 
 **João Felicíssimo**
-Data Analyst | Geography & Urban Planning background
+Data Analyst
 📍 Portugal
 
----
-*This project is part of an ongoing portfolio built while pursuing the Microsoft PL-300 (Power BI Data Analyst) certification.*
