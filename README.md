@@ -105,8 +105,6 @@ nyc-airbnb-eda-2024/
 │   └── processed/
 │       └── airbnb_dataset_clean.csv
 │
-├── dashboard/
-│   └── app.py                 # Streamlit dashboard (work in progress)
 │
 ├── airbnb_NY2024.ipynb        # Main analysis notebook
 ├── cluster_airbnb_map.html    # Interactive Folium cluster map
